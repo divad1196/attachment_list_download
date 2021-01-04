@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name' : 'Attachment_List_Download',
+    'name' : 'Attachment List Download',
     'version' : '12.0',
     'author' : 'Gallay David',
     'summary': 'Download Attachments',
